@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>lets do it</title>
+        <h5>lets try it....</h5>
+    </head>
+    <body bgcolor="pink">
+<form><fieldset>
+    <legend>info</legend>
+    <label for fistname>firstname</label>
+    <input type="text" ><br>
+    <label for lastname>lastname</label>
+    <input type="text"><br>
+    <label for email>email</label>
+    <input type="email"><br>
+    <label for password required>password </label>
+    <input type="password"><br>
+    <input type="tel" placeholder="enter mobile number" maxlength="10"><br>
+    <label of birthdate>birthdate</label>
+    <input type="date" >
+    <label for skills>skills</label>
+    <select >
+        <option value="java">java</option>
+        <option value="python" >python</option>
+        <option value="php" >php</option>
+        <option value="html"> html </option>
+    </select><br><br>
+    </fieldset><fieldset>
+        <fieldset>
+            <audio controls>
+                <source src="C:\Users\SAINATH\Desktop\html\mixkit-rain-and-thunder-storm-2390.wav">
+            </audio>
+            <video controls>
+                <source src="C:\Users\SAINATH\Desktop\html\video.mp4.mp4" height="500" width="500">
+            </video>
+        </fieldset>
+    <input type="submit">
+</form> 
+    </body>
+</html>

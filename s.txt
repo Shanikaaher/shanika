@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>yoga</title>
+    </head>
+<body >
+    <body bgcolor="pink">
+    <marquee behavior="alternate" vspace="30"><font size="5"><b>Yoga</b></font></marquee>
+    <p ><font size="4">It’s time to roll out your yoga mat and discover the combination of physical and mental exercises that for thousands of years have hooked yoga practitioners around the globe. The beauty of yoga is that you don’t have to be a yogi or yogini to reap the benefits. Whether you are young or old, overweight or fit, yoga has the power to calm the mind and strengthen the body. Don’t be intimidated by yoga terminology, fancy yoga studios and complicated poses. Yoga is for everyone</font></p><br></br>
+    <h3 align="left">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://png.pngtree.com/background/20210710/original/pngtree-geometric-gradient-yoga-silhouette-advertising-poster-background-material-picture-image_1024281.jpg" width="500" height="300">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+       
+    <img src="https://static.toiimg.com/thumb/92353710.cms?width=680&height=512&imgsize=14294" width="500" height="300">
+    <br> 
+    <h3 align="center">
+    <img src="https://cfcdn.aerzteblatt.de/bilder/2017/06/img137226819.jpg" width="800" height="400">
+   
+
+    </body>
+</html>
